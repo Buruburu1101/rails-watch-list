@@ -40,6 +40,10 @@ gem "simple_form"
 
 gem "sassc-rails"
 
+gem 'dotenv-rails', groups: [:development, :test]
+
+gem 'cloudinary', '~> 1.16.0'
+
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
 
