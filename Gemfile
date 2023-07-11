@@ -32,6 +32,13 @@ gem "rspec-rails",  group: [ :test ]
 gem "rails-controller-testing", group: [ :test ]
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
+gem "autoprefixer-rails"
+
+gem "font-awesome-sass", "~> 6.1"
+
+gem "simple_form"
+
+gem "sassc-rails"
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
